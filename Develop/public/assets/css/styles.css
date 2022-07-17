@@ -76,3 +76,9 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+#noteDisplay {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

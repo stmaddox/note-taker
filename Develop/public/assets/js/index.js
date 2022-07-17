@@ -1,3 +1,13 @@
+//Step 1. When I open Note Taker I am presented with a landing page with a link to a notes page
+//Step 2. When I click on the link I am presented with a page with existing notes listed in the left-hand column, plus empty fields
+//        to enter a new note title and note's text in the right-hand column
+//Step 3. When I enter a new note title and new note text a save icon appears in the navigation at the top of the page 
+//Step 4. When I click on the save icon then the new note entered appears in the left-hand column with the existing notes 
+//Step 5. When I click on an existing note in the list in the left-hand column it appears in the right-hand column
+//Step 6. When I click on the write icon in the navigation at the top of the page then I am presented with empty fields to enter a new
+//        note title and the note's text in the right-hand column 
+
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;

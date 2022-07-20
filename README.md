@@ -35,5 +35,8 @@ No test is required for this
 
 ## Image
 
+<img width="960" alt="Note Taker Home" src="https://user-images.githubusercontent.com/104328985/180101730-b187fdb0-659d-4a8e-b1ee-457581a0335d.png">
+
+<img width="960" alt="Note Taker List" src="https://user-images.githubusercontent.com/104328985/180101751-f23b7097-d87c-4dbd-9091-7b46c076de50.png">
 
 

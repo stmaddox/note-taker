@@ -7,6 +7,10 @@ const htmlRoutes = require('./routes/htmlRoutes/htmlRoutes');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('public'));
+app.use(apiRoutes);
+app.use(htmlRoutes);
 
-
-
+app.listen(PORT, () => {
+    console.log(`app is listening ${PORT}!`);
+});
